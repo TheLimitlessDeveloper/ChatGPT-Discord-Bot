@@ -3,12 +3,17 @@
 ChatGPT Discord Bot
 </h1>
 
-<p align="center">
-<img src="https://github.com/TheLimitlessDeveloper/ChatGPT-Discord-Bot/blob/main/ChatGPT.png" alt="ChatGPT">
-</p>
-
 A Discord Bot Powered By [OpenAI](https://openai.com/)'s [ChatGPT](https://chat.openai.com).
 This Bot uses [ChatGPT-API v3](https://github.com/transitive-bullshit/chatgpt-api/tree/v3) , [Discord.JS v14](https://github.com/discordjs/discord.js) & [Puppeteer v19](https://github.com/puppeteer/puppeteer).
+
+<h2>
+<p align="center">
+<a href="https://youtu.be/Fp8NP42znFc">Watch The Video Tutorial On YouTube</a><br>
+<a href="https://youtu.be/Fp8NP42znFc" target="_blank">
+<img src="https://github.com/TheLimitlessDeveloper/ChatGPT-Discord-Bot/blob/main/thumbnail.png" alt="Watch The Video Tutorial On YouTube" width="600">
+</a>
+</p></h2>
+
 
 ## ✨Features 
  🔥 Use slash command `/ask` to ask questions in any channel.
